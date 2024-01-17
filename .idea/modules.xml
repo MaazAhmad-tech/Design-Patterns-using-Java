@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID design Principles/Dependency Inversion Principle/Dependency Inversion Principle.iml" filepath="$PROJECT_DIR$/SOLID design Principles/Dependency Inversion Principle/Dependency Inversion Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID design Principles/Interface Segregation Principle/Interface Segregation Principle.iml" filepath="$PROJECT_DIR$/SOLID design Principles/Interface Segregation Principle/Interface Segregation Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Java Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID design Principles/Liskov Substitution Principle/Liskov Substitution Principle.iml" filepath="$PROJECT_DIR$/SOLID design Principles/Liskov Substitution Principle/Liskov Substitution Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID design Principles/Open Closed Principle/Open Closed Principle.iml" filepath="$PROJECT_DIR$/SOLID design Principles/Open Closed Principle/Open Closed Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID design Principles/Single Responsibility principle/Single Responsibility principle.iml" filepath="$PROJECT_DIR$/SOLID design Principles/Single Responsibility principle/Single Responsibility principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
+    </modules>
+  </component>
+</project>

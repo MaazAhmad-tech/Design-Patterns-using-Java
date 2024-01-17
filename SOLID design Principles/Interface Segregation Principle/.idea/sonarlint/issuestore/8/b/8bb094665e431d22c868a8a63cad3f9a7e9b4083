@@ -1,0 +1,16 @@
+
+b	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ÓŞş˜8“Ì€Áà0
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶­Ù˜ûÿÿÿÿ8“Ì€Áà0
+a	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8”Ì€Áà0
+a	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8”Ì€Áà0
+b	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(¨Èöê8”Ì€Áà0
+b	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(òıİº8•Ì€Áà0
+a	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8•Ì€Áà0
+a	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8–Ì€Áà0
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àÈ–°şÿÿÿÿ8¢Ì€Áà0
+j	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Èöê8´Ì€Áà0
+j	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òıİº8µÌ€Áà0
+]
+java:S2094o"BRemove this empty class, write its code or make it an "interface".(Îëİ•şÿÿÿÿ
